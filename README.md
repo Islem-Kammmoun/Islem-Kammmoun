@@ -14,7 +14,7 @@ I am an enthusiastic second-year ICT engineering student with a passion for lear
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/islem-kammoun-a3a6b9245/)
 
-### Languages and Tools:
+<!---### Languages and Tools:--->
 
 <!---docker jenkins kubernetes azure promethus grafana linux cplusplus css3 figma git html5 javascript mongodb sql python flask sqlite --->
 
